@@ -4,7 +4,7 @@
 .map() method:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
-
+###
 /*
 Challenge 1:
 Given an array of numbers, return an array of each number, squared
@@ -42,5 +42,5 @@ const pokemon = ["Bulbasaur", "Charmander", "Squirtle"]
 // -->          ["<p>Bulbasaur</p>, <p>Charmander</p>, <p>Squirtle</p>"]
 // Your code here
 
-
+###
 ***
