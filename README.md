@@ -1,9 +1,9 @@
 # javascript-map-methods
 
-/* 
+*** 
 .map() method:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-*/
+
 
 /*
 Challenge 1:
@@ -41,3 +41,6 @@ return: ["<p>Bulbasaur</p>, <p>Charmander</p>, <p>Squirtle</p>"]
 const pokemon = ["Bulbasaur", "Charmander", "Squirtle"]
 // -->          ["<p>Bulbasaur</p>, <p>Charmander</p>, <p>Squirtle</p>"]
 // Your code here
+
+
+**
