@@ -22,8 +22,8 @@ Given an array of strings, return an array where
 the first letter of each string is capitalized
 */
 
-const names = ["lewis", "mona", "nora", "oprah"]
-// -->        ["Lewis", "Mona", "Nora", "Oprah"]
+const names = ["lewis", "manuel", "nora", "oprah"]
+// -->        ["Lewis", "Manuel", "Nora", "Oprah"]
 // Your code here
 
 
