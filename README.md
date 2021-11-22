@@ -1,4 +1,4 @@
-# javascript-map-methods
+# JavaScript Map Challenges
 
 *** 
 .map() method:
