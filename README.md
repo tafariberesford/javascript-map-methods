@@ -8,6 +8,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ####
 
 Included are challenges created by Scrimba on map methods.
+
+```
 /*
 Challenge 1:
 Given an array of numbers, return an array of each number, squared
@@ -44,6 +46,6 @@ return: ["<p>Bulbasaur</p>, <p>Charmander</p>, <p>Squirtle</p>"]
 const pokemon = ["Bulbasaur", "Charmander", "Squirtle"]
 // -->          ["<p>Bulbasaur</p>, <p>Charmander</p>, <p>Squirtle</p>"]
 // Your code here
-
+```
 ###
 ***
